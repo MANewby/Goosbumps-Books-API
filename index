@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Goosebumps Api</title>
+</head>
+<body>
+    <main>
+        <h1> Reader Beware! </h1>
+           <span>Choose Your Scare!</span>
+           <img src ="#" alt="bookImage">
+           <li>
+            <button class= "clickBack">Previous Spooky</button>
+               <button class= "clickForward">Next Spooky</button>
+           </li>
+    </main>
+    
+</body>
+</html>
